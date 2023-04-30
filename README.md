@@ -5,6 +5,8 @@
 
 - 🌱Atualmente estou aprendendo **JavaScript**
 
+- 💬 Pode me perguntar sobre **hardware, Python, ciência de dados, automação, web, jogos 2D e 3D**
+
 - 📄 Mais sobre mim no [Linkedin](https://www.linkedin.com/in/bruno-vieira-a51776165)
 
 
