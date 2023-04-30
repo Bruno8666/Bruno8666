@@ -15,7 +15,7 @@
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bruno-vieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-vieira" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bruno-vieira-a51776165" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Algumas estatísticas do GitHub:</h3>
